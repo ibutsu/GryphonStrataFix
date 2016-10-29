@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: GryphonStrataFix
+## Version: 0.1
+## Author: brindleshoat
+
+main.lua
